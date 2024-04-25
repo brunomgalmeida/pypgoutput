@@ -3,6 +3,6 @@ flake8==4.0.1
 isort==5.10.1
 pytest==6.2.5
 coverage[toml]==6.2
-pydantic==1.9.0
+pydantic==1.10.13
 mypy==0.931
 types-psycopg2==2.9.6
